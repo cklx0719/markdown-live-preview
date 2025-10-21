@@ -1,0 +1,21 @@
+services:
+  markdown-server:
+    image: cklx0719/markdown-live-preview:latest
+    # 如需本地构建，可注释上面的 image 并取消注释下面的 build
+    # build: .
+    container_name: markdown-live-preview
+    ports:
+      - "3000:3000"
+    volumes:
+      # 将宿主机的 docs 目录映射到容器内
+      - ./docs:/app/docs
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+    restart: unless-stopped
+    networks:
+      - markdown-network
+
+networks:
+  markdown-network:
+    driver: bridge
