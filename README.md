@@ -2,6 +2,11 @@
 
 一个简洁的 Node.js 服务器，可以将 Markdown 文件实时渲染为网页。
 
+[![GitHub Release](https://img.shields.io/github/v/release/cklx0719/markdown-live-preview)](https://github.com/cklx0719/markdown-live-preview/releases)
+[![Docker Hub](https://img.shields.io/docker/v/cklx0719/markdown-live-preview?label=docker)](https://hub.docker.com/r/cklx0719/markdown-live-preview)
+[![License](https://img.shields.io/github/license/cklx0719/markdown-live-preview)](LICENSE)
+[![Docker Pulls](https://img.shields.io/docker/pulls/cklx0719/markdown-live-preview)](https://hub.docker.com/r/cklx0719/markdown-live-preview)
+
 > 🚀 **快速入门**：查看 [QUICKSTART.md](QUICKSTART.md) 获取 3 分钟快速上手指南！
 
 ## 📦 Docker Hub 镜像
@@ -285,6 +290,27 @@ pm2 startup
 - ✅ 引用
 - ✅ 分割线
 - ✅ 粗体、斜体等文本格式
+
+## 📝 贡献
+
+欢迎贡献！请查阅 [GitHub Issues](https://github.com/cklx0719/markdown-live-preview/issues) 提交问题或建议。
+
+## 🔗 相关链接
+
+- **GitHub 仓库**：https://github.com/cklx0719/markdown-live-preview
+- **Docker Hub**：https://hub.docker.com/r/cklx0719/markdown-live-preview
+- **问题反馈**：https://github.com/cklx0719/markdown-live-preview/issues
+- **变更日志**：[CHANGELOG.md](CHANGELOG.md)
+
+## 📚 文档
+
+- 🚀 [快速入门指南](QUICKSTART.md)
+- 🐳 [Docker 详细指南](DOCKER.md)
+- 🐋 [Docker Hub 使用说明](DOCKER_HUB.md)
+
+## 💫 星标历史
+
+如果这个项目对你有帮助，请给一个 Star ⭐️！
 
 ## 📄 许可证
 

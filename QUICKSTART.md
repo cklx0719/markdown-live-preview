@@ -199,3 +199,11 @@ ports:
 ## 开始使用
 
 现在就运行 `.\start.ps1`（Windows）或 `./start.sh`（Linux/Mac）开始吧！
+
+## 更多资源
+
+- 📚 [GitHub 仓库](https://github.com/cklx0719/markdown-live-preview)
+- 📚 [完整文档](README.md)
+- 🐳 [Docker 详细指南](DOCKER.md)
+- 🐋 [Docker Hub 镜像](https://hub.docker.com/r/cklx0719/markdown-live-preview)
+- 📝 [变更日志](CHANGELOG.md)

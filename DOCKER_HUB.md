@@ -210,7 +210,7 @@ docker run -d \
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-repo/markdown-live-preview.git
+git clone https://github.com/cklx0719/markdown-live-preview.git
 cd markdown-live-preview
 ```
 
@@ -354,7 +354,9 @@ docker logs markdown-server
 ## 🔗 相关链接
 
 - **Docker Hub**：https://hub.docker.com/r/cklx0719/markdown-live-preview
-- **GitHub**：（添加你的 GitHub 仓库地址）
+- **GitHub 仓库**：https://github.com/cklx0719/markdown-live-preview
+- **问题反馈**：https://github.com/cklx0719/markdown-live-preview/issues
+- **发布版本**：https://github.com/cklx0719/markdown-live-preview/releases
 
 ## 📄 许可证
 
